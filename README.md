@@ -1,7 +1,9 @@
 # assignment_01-folder
 
+![](my pic.JPG)
+
                                                            SAIVARAPRASAD SETTIPALLI
-                                       4722 Gateway Terrace, Arbutus, MD 21227 410-530-1295 | ep53338@umbc.edu.            ![](my pic.JPG)
+                                       4722 Gateway Terrace, Arbutus, MD 21227 410-530-1295 | ep53338@umbc.edu.            
 
 ## Education Details:
 
