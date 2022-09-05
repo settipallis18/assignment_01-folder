@@ -1,14 +1,15 @@
 # assignment_01-folder
 
-                                                          #SAIVARAPRASAD SETTIPALLI
+                                                           SAIVARAPRASAD SETTIPALLI
                                        4722 Gateway Terrace, Arbutus, MD 21227 410-530-1295 | ep53338@umbc.edu
 
-#Education
+Education Details:
+
 University of Maryland Baltimore County (UMBC), Baltimore, MD
-M.P.S. in Data Science GPA - 3.23
+M.P.S. in Data Science GPA - 3.23                                                           Exp : May 2023.
 Sasi Institute of Technology and Engineering, West Godavari, India B.Tech., Computer Science and Engineering; GPA – 3.08/4.00
-Technical Skills & Certifications Languages : Python, SQL, Java.
-Exp : May 2023. April 2018
+Technical Skills & Certifications Languages : Python, SQL.                                        April 2018
+ 
   ML TechniquesNeural : Networks, Bayesian statistics, Reinforcement learning, SVM, Random Forest, Gradient TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib.
 DataBase Tools : MySQL, DB2, Tableau, Git, Jupyter Notebook, Putty. Certifications : Microsoft Azure Data Scientist
 Professional Experience
