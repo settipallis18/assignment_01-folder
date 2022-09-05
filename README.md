@@ -7,6 +7,7 @@ Education Details:
 
 University of Maryland Baltimore County (UMBC), Baltimore, MD
 M.P.S. in Data Science GPA - 3.23                                                           Exp : May 2023.
+
 Sasi Institute of Technology and Engineering, West Godavari, India B.Tech., Computer Science and Engineering; GPA – 3.08/4.00
 Technical Skills & Certifications Languages : Python, SQL.                                        April 2018
  
