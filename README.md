@@ -45,7 +45,9 @@ Senior Analyst, Wipro Pvt Ltd, Hyderabad, India Sep. 2018 – Mar. 2021
 
 ● Demonstrated close attention to detail while creating presentations and other professional documents.
 
-## Summer Internship, BSNL, Vijayawada, India May. 2017 – Jun 2017
+## Summer Internship:
+
+BSNL, Vijayawada, India.         May. 2017 – Jun 2017
 
 ● Worked on Core networking of ISP’s and softwares implemented in BSNL.
 
