@@ -3,7 +3,7 @@
                                                            SAIVARAPRASAD SETTIPALLI
                                        4722 Gateway Terrace, Arbutus, MD 21227 410-530-1295 | ep53338@umbc.edu
 
-Education Details:
+#Education Details:
 
 University of Maryland Baltimore County (UMBC), Baltimore, MD
 M.P.S. in Data Science GPA - 3.23                                                           Exp : May 2023.
