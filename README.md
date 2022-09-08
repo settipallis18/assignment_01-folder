@@ -5,7 +5,7 @@
                                                            SAIVARAPRASAD SETTIPALLI
                                        4722 Gateway Terrace, Arbutus, MD 21227 410-530-1295 | ep53338@umbc.edu.            
 
-## Education Details:
+# Education Details:
 
 University of Maryland Baltimore County (UMBC), Baltimore, MD
 M.P.S. in Data Science                                                        Exp : May 2023.
@@ -13,19 +13,19 @@ M.P.S. in Data Science                                                        Ex
 Sasi Institute of Technology and Engineering, West Godavari, India B.Tech.
 Computer Science and Engineering                                                April 2018
 
-## Technical Skills & Certifications: 
+# Technical Skills & Certifications: 
 
-Languages : Python, SQL.                                      
+● Languages : Python, SQL.                                      
  
-ML TechniquesNeural : Networks, SVM, Random Forest, Gradient TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib.
+● ML TechniquesNeural : Networks, SVM, Random Forest, Gradient TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib.
 
-DataBase Tools : MySQL, Tableau, Git, Jupyter Notebook. 
+● DataBase Tools : MySQL, Tableau, Git, Jupyter Notebook. 
 
-Certifications : Microsoft Azure Data Scientist
+● Certifications : Microsoft Azure Data Scientist
 
-## Work Experience:
+# Work Experience:
 
-Senior Analyst, Wipro Pvt Ltd, Hyderabad, India Sep. 2018 – Mar. 2021
+## Senior Analyst, Wipro Pvt Ltd, Hyderabad, India Sep. 2018 – Mar. 2021
 
 ● Worked on GIS mapping (Google maps) under the client of Google India Pvt Ltd.
 
@@ -37,17 +37,17 @@ Senior Analyst, Wipro Pvt Ltd, Hyderabad, India Sep. 2018 – Mar. 2021
 
 ● Demonstrated close attention to detail while creating presentations and other professional documents.
 
-## Summer Internship:
+# Summer Internship:
 
-BSNL, Vijayawada, India.         May. 2017 – Jun 2017
+## BSNL, Vijayawada, India.         May. 2017 – Jun 2017
 
 ● Worked on Core networking of ISP’s and softwares implemented in BSNL.
 
-## Awards:
+# Awards:
 
 ● Best Employee award in Wipro Company
 
-## Academic/Other Activities:
+# Academic/Other Activities:
 
 ● Presented a PPT on "Microsoft Hololens" at TECHNO-FEST "SPURTHI" conducted at SRKR Engineering College at Chinnamiram, Bhimavaram, Andhra Pradesh 534204.
 
@@ -61,7 +61,7 @@ BSNL, Vijayawada, India.         May. 2017 – Jun 2017
 
 ● Worked in a NGO sector.
 
-## Hobbies:
+# Hobbies:
 
 ● Playing Badminton, Trekking, Hiking, Visiting New Places.
 
