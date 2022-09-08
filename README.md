@@ -17,7 +17,7 @@ Computer Science and Engineering                                                
 
 Languages : Python, SQL.                                      
  
-ML TechniquesNeural : Networks, Bayesian statistics, Reinforcement learning, SVM, Random Forest, Gradient TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib.
+ML TechniquesNeural : Networks, SVM, Random Forest, Gradient TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib.
 
 DataBase Tools : MySQL, Tableau, Git, Jupyter Notebook. 
 
