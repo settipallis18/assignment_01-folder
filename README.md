@@ -1,6 +1,6 @@
 # assignment_01-folder
 
-<img src = "https://github.com/settipallis18/assignment_01-folder/blob/main/CEE92554-25FD-4C44-B6B6-41AB13754AC1_1_105_c.jpeg"/ height = 300>
+<img src = "https://github.com/settipallis18/assignment_01-folder/blob/main/CEE92554-25FD-4C44-B6B6-41AB13754AC1_1_105_c.jpeg" height = 300/>
 
                                                            SAIVARAPRASAD SETTIPALLI
                                        4722 Gateway Terrace, Arbutus, MD 21227 410-530-1295 | ep53338@umbc.edu.            
