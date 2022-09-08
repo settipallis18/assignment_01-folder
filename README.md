@@ -8,10 +8,10 @@
 ## Education Details:
 
 University of Maryland Baltimore County (UMBC), Baltimore, MD
-M.P.S. in Data Science GPA - 3.34                                                           Exp : May 2023.
+M.P.S. in Data Science                                                        Exp : May 2023.
 
 Sasi Institute of Technology and Engineering, West Godavari, India B.Tech.
-Computer Science and Engineering; GPA – 3.08/4.00                                                 April 2018
+Computer Science and Engineering                                                April 2018
 
 ## Technical Skills & Certifications: 
 
@@ -22,16 +22,6 @@ ML TechniquesNeural : Networks, Bayesian statistics, Reinforcement learning, SVM
 DataBase Tools : MySQL, Tableau, Git, Jupyter Notebook. 
 
 Certifications : Microsoft Azure Data Scientist
-
-## Professional Experience:
-
-● Experienced on Developing ETL Processes in AWS Glue to migrate data from external sources like S3 into AWS Redshift using Data Pipelines.
-
-● Data was changed using AWS Glue dynamic frames with PySpark, cataloged using crawlers, and the task and crawler were scheduled using workflow features.
-
-● Developed an AWS data pipeline to extract unstructured and semi-structured data and transform and load the structured data to Amazon RDS and Amazon Aurora.
-
-● We use airflow DAGs to schedule all the workflows we develop in Python, and that's pretty much about my experience in my current project as well.
 
 ## Work Experience:
 
