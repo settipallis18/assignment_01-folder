@@ -27,7 +27,7 @@
 
 ## Senior Analyst, Wipro Pvt Ltd, Hyderabad, India Sep. 2018 – Mar. 2021
 
-- Worked on GIS mapping (Google maps) under the client of Google India Pvt Ltd.
+- Worked on GIS mapping (Google maps)used ATLAS tool under the client of Google India Pvt Ltd.
 
 - Performing action on live databases and resolving the escalations.
 
