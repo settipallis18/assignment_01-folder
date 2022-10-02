@@ -7,14 +7,14 @@ In the following section, we’ll show you a real example of Data Analysis using
 
 There are two more sections that specially point out. The first one is Section no 3, “Jupyter tutorial”. And also the last section, Python in under 10 minutes.
 
--What is Data Analysis
--Real example Data Analysis with Python
--How to use Jupyter Notebooks
--Intro to NumPy (exercises included)
--Intro to Pandas (exercises included)
--Data Cleaning
--Reading Data SQL, CSVs, APIs, etc
--Python in Under 10 Minutes
+- What is Data Analysis
+- Real example Data Analysis with Python
+- How to use Jupyter Notebooks
+- Intro to NumPy (exercises included)
+- Intro to Pandas (exercises included)
+- Data Cleaning
+- Reading Data SQL, CSVs, APIs, etc
+- Python in Under 10 Minutes
 
 ### What is Data Analysis?
 
