@@ -1,0 +1,419 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,0.7522179926,SP.POP.GROW,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+1,2011,1.1530592801,SP.POP.GROW,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+2,2012,1.1369056938,SP.POP.GROW,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+3,2013,1.1191092,SP.POP.GROW,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+4,2014,1.099461091,SP.POP.GROW,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+5,2015,1.0780013445,SP.POP.GROW,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+6,2016,1.0571815776,SP.POP.GROW,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+7,2017,1.0371338969,SP.POP.GROW,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+8,2018,1.0158083491,SP.POP.GROW,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+9,2019,0.9933974933,SP.POP.GROW,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+10,2020,0.9700539914,SP.POP.GROW,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+11,2010,1.5554895891,SP.POP.GROW,AUS,Australia,East Asia & Pacific,High income,Not classified
+12,2011,1.3895273156,SP.POP.GROW,AUS,Australia,East Asia & Pacific,High income,Not classified
+13,2012,1.7458200007,SP.POP.GROW,AUS,Australia,East Asia & Pacific,High income,Not classified
+14,2013,1.7211514399999999,SP.POP.GROW,AUS,Australia,East Asia & Pacific,High income,Not classified
+15,2014,1.4915664891,SP.POP.GROW,AUS,Australia,East Asia & Pacific,High income,Not classified
+16,2015,1.4392166526,SP.POP.GROW,AUS,Australia,East Asia & Pacific,High income,Not classified
+17,2016,1.5619404981,SP.POP.GROW,AUS,Australia,East Asia & Pacific,High income,Not classified
+18,2017,1.6845231085,SP.POP.GROW,AUS,Australia,East Asia & Pacific,High income,Not classified
+19,2018,1.5361055157,SP.POP.GROW,AUS,Australia,East Asia & Pacific,High income,Not classified
+20,2019,1.5216536775,SP.POP.GROW,AUS,Australia,East Asia & Pacific,High income,Not classified
+21,2020,1.2829331373000001,SP.POP.GROW,AUS,Australia,East Asia & Pacific,High income,Not classified
+22,2010,0.9379593067,SP.POP.GROW,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+23,2011,0.9159651785,SP.POP.GROW,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+24,2012,0.8935255067000001,SP.POP.GROW,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+25,2013,0.8736056958,SP.POP.GROW,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+26,2014,0.8557959641,SP.POP.GROW,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+27,2015,0.8388389533,SP.POP.GROW,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+28,2016,0.8237521525,SP.POP.GROW,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+29,2017,0.8071452454,SP.POP.GROW,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+30,2018,0.7838442597,SP.POP.GROW,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+31,2019,0.7515508421,SP.POP.GROW,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+32,2020,0.7128727911,SP.POP.GROW,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+33,2010,1.1118640752,SP.POP.GROW,CAN,Canada,North America,High income,Not classified
+34,2011,0.9786977866000001,SP.POP.GROW,CAN,Canada,North America,High income,Not classified
+35,2012,1.085817263,SP.POP.GROW,CAN,Canada,North America,High income,Not classified
+36,2013,1.0565912592,SP.POP.GROW,CAN,Canada,North America,High income,Not classified
+37,2014,1.0053375787,SP.POP.GROW,CAN,Canada,North America,High income,Not classified
+38,2015,0.746339478,SP.POP.GROW,CAN,Canada,North America,High income,Not classified
+39,2016,1.1323486547,SP.POP.GROW,CAN,Canada,North America,High income,Not classified
+40,2017,1.1995207106,SP.POP.GROW,CAN,Canada,North America,High income,Not classified
+41,2018,1.4124558692,SP.POP.GROW,CAN,Canada,North America,High income,Not classified
+42,2019,1.4361368232,SP.POP.GROW,CAN,Canada,North America,High income,Not classified
+43,2020,1.1527970772,SP.POP.GROW,CAN,Canada,North America,High income,Not classified
+44,2010,0.4829596887,SP.POP.GROW,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+45,2011,0.5464575949,SP.POP.GROW,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+46,2012,0.6783454588000001,SP.POP.GROW,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+47,2013,0.6660729777000001,SP.POP.GROW,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+48,2014,0.6303263895,SP.POP.GROW,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+49,2015,0.5814561467,SP.POP.GROW,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+50,2016,0.5730509061,SP.POP.GROW,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+51,2017,0.6052450135,SP.POP.GROW,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+52,2018,0.4676720535,SP.POP.GROW,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+53,2019,0.3547408902,SP.POP.GROW,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+54,2020,0.2380408702,SP.POP.GROW,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+55,2010,0.494040603,SP.POP.GROW,FRA,France,Europe & Central Asia,High income,Not classified
+56,2011,0.4836755444,SP.POP.GROW,FRA,France,Europe & Central Asia,High income,Not classified
+57,2012,0.48399896130000003,SP.POP.GROW,FRA,France,Europe & Central Asia,High income,Not classified
+58,2013,0.5147738291,SP.POP.GROW,FRA,France,Europe & Central Asia,High income,Not classified
+59,2014,0.4737069078,SP.POP.GROW,FRA,France,Europe & Central Asia,High income,Not classified
+60,2015,0.3555692401,SP.POP.GROW,FRA,France,Europe & Central Asia,High income,Not classified
+61,2016,0.2638687886,SP.POP.GROW,FRA,France,Europe & Central Asia,High income,Not classified
+62,2017,0.2902021164,SP.POP.GROW,FRA,France,Europe & Central Asia,High income,Not classified
+63,2018,0.27445184910000003,SP.POP.GROW,FRA,France,Europe & Central Asia,High income,Not classified
+64,2019,0.21882414900000002,SP.POP.GROW,FRA,France,Europe & Central Asia,High income,Not classified
+65,2020,0.19458244930000002,SP.POP.GROW,FRA,France,Europe & Central Asia,High income,Not classified
+66,2010,-0.1531984469,SP.POP.GROW,DEU,Germany,Europe & Central Asia,High income,Not classified
+67,2011,-1.8537146288000002,SP.POP.GROW,DEU,Germany,Europe & Central Asia,High income,Not classified
+68,2012,0.1877278006,SP.POP.GROW,DEU,Germany,Europe & Central Asia,High income,Not classified
+69,2013,0.27290021470000003,SP.POP.GROW,DEU,Germany,Europe & Central Asia,High income,Not classified
+70,2014,0.4168773592,SP.POP.GROW,DEU,Germany,Europe & Central Asia,High income,Not classified
+71,2015,0.8657026440000001,SP.POP.GROW,DEU,Germany,Europe & Central Asia,High income,Not classified
+72,2016,0.8072185386,SP.POP.GROW,DEU,Germany,Europe & Central Asia,High income,Not classified
+73,2017,0.37372455990000003,SP.POP.GROW,DEU,Germany,Europe & Central Asia,High income,Not classified
+74,2018,0.30052670200000003,SP.POP.GROW,DEU,Germany,Europe & Central Asia,High income,Not classified
+75,2019,0.2255198742,SP.POP.GROW,DEU,Germany,Europe & Central Asia,High income,Not classified
+76,2020,0.08169315860000001,SP.POP.GROW,DEU,Germany,Europe & Central Asia,High income,Not classified
+77,2010,1.3503383137,SP.POP.GROW,IND,India,South Asia,Lower middle income,IBRD
+78,2011,1.2885129618,SP.POP.GROW,IND,India,South Asia,Lower middle income,IBRD
+79,2012,1.2314848939,SP.POP.GROW,IND,India,South Asia,Lower middle income,IBRD
+80,2013,1.1829042149,SP.POP.GROW,IND,India,South Asia,Lower middle income,IBRD
+81,2014,1.1456734015,SP.POP.GROW,IND,India,South Asia,Lower middle income,IBRD
+82,2015,1.1168959128,SP.POP.GROW,IND,India,South Asia,Lower middle income,IBRD
+83,2016,1.0904593209,SP.POP.GROW,IND,India,South Asia,Lower middle income,IBRD
+84,2017,1.0633594299,SP.POP.GROW,IND,India,South Asia,Lower middle income,IBRD
+85,2018,1.0378278479,SP.POP.GROW,IND,India,South Asia,Lower middle income,IBRD
+86,2019,1.0132612493,SP.POP.GROW,IND,India,South Asia,Lower middle income,IBRD
+87,2020,0.9894138002,SP.POP.GROW,IND,India,South Asia,Lower middle income,IBRD
+88,2010,1.3377824769,SP.POP.GROW,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+89,2011,1.3479044028,SP.POP.GROW,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+90,2012,1.3516997872,SP.POP.GROW,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+91,2013,1.3407708641,SP.POP.GROW,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+92,2014,1.3109452454000001,SP.POP.GROW,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+93,2015,1.2678297025,SP.POP.GROW,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+94,2016,1.2205910583,SP.POP.GROW,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+95,2017,1.1761974237,SP.POP.GROW,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+96,2018,1.1345069795,SP.POP.GROW,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+97,2019,1.0979264373,SP.POP.GROW,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+98,2020,1.0651789859,SP.POP.GROW,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+99,2010,0.3075912223,SP.POP.GROW,ITA,Italy,Europe & Central Asia,High income,Not classified
+100,2011,0.171978291,SP.POP.GROW,ITA,Italy,Europe & Central Asia,High income,Not classified
+101,2012,0.26954123950000003,SP.POP.GROW,ITA,Italy,Europe & Central Asia,High income,Not classified
+102,2013,1.1592511168,SP.POP.GROW,ITA,Italy,Europe & Central Asia,High income,Not classified
+103,2014,0.917504096,SP.POP.GROW,ITA,Italy,Europe & Central Asia,High income,Not classified
+104,2015,-0.0963761331,SP.POP.GROW,ITA,Italy,Europe & Central Asia,High income,Not classified
+105,2016,-0.1698840733,SP.POP.GROW,ITA,Italy,Europe & Central Asia,High income,Not classified
+106,2017,-0.14986111700000002,SP.POP.GROW,ITA,Italy,Europe & Central Asia,High income,Not classified
+107,2018,-0.19006364010000001,SP.POP.GROW,ITA,Italy,Europe & Central Asia,High income,Not classified
+108,2019,-1.1530284239,SP.POP.GROW,ITA,Italy,Europe & Central Asia,High income,Not classified
+109,2020,-0.4691353883,SP.POP.GROW,ITA,Italy,Europe & Central Asia,High income,Not classified
+110,2010,0.0179605415,SP.POP.GROW,JPN,Japan,East Asia & Pacific,High income,Not classified
+111,2011,-0.1852264864,SP.POP.GROW,JPN,Japan,East Asia & Pacific,High income,Not classified
+112,2012,-0.1597106758,SP.POP.GROW,JPN,Japan,East Asia & Pacific,High income,Not classified
+113,2013,-0.1442718834,SP.POP.GROW,JPN,Japan,East Asia & Pacific,High income,Not classified
+114,2014,-0.1326942221,SP.POP.GROW,JPN,Japan,East Asia & Pacific,High income,Not classified
+115,2015,-0.1061249937,SP.POP.GROW,JPN,Japan,East Asia & Pacific,High income,Not classified
+116,2016,-0.0511374152,SP.POP.GROW,JPN,Japan,East Asia & Pacific,High income,Not classified
+117,2017,-0.081874296,SP.POP.GROW,JPN,Japan,East Asia & Pacific,High income,Not classified
+118,2018,-0.1268800681,SP.POP.GROW,JPN,Japan,East Asia & Pacific,High income,Not classified
+119,2019,-0.1404649779,SP.POP.GROW,JPN,Japan,East Asia & Pacific,High income,Not classified
+120,2020,-0.2941946178,SP.POP.GROW,JPN,Japan,East Asia & Pacific,High income,Not classified
+121,2010,0.4982250844,SP.POP.GROW,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+122,2011,0.7689717586,SP.POP.GROW,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+123,2012,0.5257136606,SP.POP.GROW,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+124,2013,0.45521862220000003,SP.POP.GROW,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+125,2014,0.6281498614000001,SP.POP.GROW,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+126,2015,0.5272884974000001,SP.POP.GROW,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+127,2016,0.3968518234,SP.POP.GROW,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+128,2017,0.2809680183,SP.POP.GROW,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+129,2018,0.4335190276,SP.POP.GROW,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+130,2019,0.3478749686,SP.POP.GROW,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+131,2020,0.1378692662,SP.POP.GROW,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+132,2010,1.4381406691,SP.POP.GROW,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+133,2011,1.3947899698000001,SP.POP.GROW,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+134,2012,1.3552944264,SP.POP.GROW,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+135,2013,1.3155576068000001,SP.POP.GROW,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+136,2014,1.277686366,SP.POP.GROW,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+137,2015,1.2411645025,SP.POP.GROW,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+138,2016,1.2032595059,SP.POP.GROW,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+139,2017,1.1639669496,SP.POP.GROW,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+140,2018,1.1264147913,SP.POP.GROW,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+141,2019,1.0913668872,SP.POP.GROW,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+142,2020,1.0582400345,SP.POP.GROW,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+143,2010,0.0448957881,SP.POP.GROW,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+144,2011,0.07798177740000001,SP.POP.GROW,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+145,2012,0.16830503530000002,SP.POP.GROW,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+146,2013,0.2129507045,SP.POP.GROW,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+147,2014,0.2176422621,SP.POP.GROW,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+148,2015,0.1925579465,SP.POP.GROW,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+149,2016,0.1702452387,SP.POP.GROW,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+150,2017,0.1068705694,SP.POP.GROW,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+151,2018,-0.0130668925,SP.POP.GROW,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+152,2019,-0.0495686654,SP.POP.GROW,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+153,2020,-0.2309503889,SP.POP.GROW,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+154,2010,2.9276432359,SP.POP.GROW,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+155,2011,3.0389743802,SP.POP.GROW,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+156,2012,3.0907246455,SP.POP.GROW,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+157,2013,3.0307943971,SP.POP.GROW,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+158,2014,2.8362209025,SP.POP.GROW,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+159,2015,2.5580774485999997,SP.POP.GROW,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+160,2016,2.2624230013,SP.POP.GROW,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+161,2017,2.0070663908,SP.POP.GROW,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+162,2018,1.8010622175000002,SP.POP.GROW,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+163,2019,1.6647767024,SP.POP.GROW,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+164,2020,1.5788373296,SP.POP.GROW,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+165,2010,1.4552819335,SP.POP.GROW,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+166,2011,1.5245140563000001,SP.POP.GROW,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+167,2012,1.5813536731,SP.POP.GROW,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+168,2013,1.6043673693,SP.POP.GROW,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+169,2014,1.5837873959,SP.POP.GROW,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+170,2015,1.5322427734000001,SP.POP.GROW,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+171,2016,1.4719334294,SP.POP.GROW,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+172,2017,1.4169472538,SP.POP.GROW,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+173,2018,1.363703216,SP.POP.GROW,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+174,2019,1.3162920097,SP.POP.GROW,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+175,2020,1.2733562633,SP.POP.GROW,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+176,2010,1.4000886061,SP.POP.GROW,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+177,2011,1.5315660783,SP.POP.GROW,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+178,2012,1.6311482334,SP.POP.GROW,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+179,2013,1.6927454556,SP.POP.GROW,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+180,2014,1.7026436164,SP.POP.GROW,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+181,2015,1.6694815845000002,SP.POP.GROW,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+182,2016,1.6399424041000001,SP.POP.GROW,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+183,2017,1.6013122336999999,SP.POP.GROW,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+184,2018,1.4972320484,SP.POP.GROW,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+185,2019,1.3145136997,SP.POP.GROW,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+186,2020,1.0841939524,SP.POP.GROW,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+187,2010,0.7838886466,SP.POP.GROW,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+188,2011,0.7815065622,SP.POP.GROW,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+189,2012,0.6953531323000001,SP.POP.GROW,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+190,2013,0.6697405355,SP.POP.GROW,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+191,2014,0.7364639787,SP.POP.GROW,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+192,2015,0.7923675058,SP.POP.GROW,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+193,2016,0.7578744928000001,SP.POP.GROW,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+194,2017,0.6793744739,SP.POP.GROW,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+195,2018,0.6059291322,SP.POP.GROW,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+196,2019,0.5641311134,SP.POP.GROW,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+197,2020,0.3654094324,SP.POP.GROW,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+198,2010,0.8296166747,SP.POP.GROW,USA,United States,North America,High income,Not classified
+199,2011,0.7267867048000001,SP.POP.GROW,USA,United States,North America,High income,Not classified
+200,2012,0.7335999413000001,SP.POP.GROW,USA,United States,North America,High income,Not classified
+201,2013,0.6928602766,SP.POP.GROW,USA,United States,North America,High income,Not classified
+202,2014,0.7333615199,SP.POP.GROW,USA,United States,North America,High income,Not classified
+203,2015,0.7362173088,SP.POP.GROW,USA,United States,North America,High income,Not classified
+204,2016,0.7246760675,SP.POP.GROW,USA,United States,North America,High income,Not classified
+205,2017,0.6326439951,SP.POP.GROW,USA,United States,North America,High income,Not classified
+206,2018,0.5264353956,SP.POP.GROW,USA,United States,North America,High income,Not classified
+207,2019,0.45538128600000005,SP.POP.GROW,USA,United States,North America,High income,Not classified
+208,2020,0.9612010520000001,SP.POP.GROW,USA,United States,North America,High income,Not classified
+209,2010,1.1803130363,NY.ADJ.DCO2.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+210,2011,1.025265295,NY.ADJ.DCO2.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+211,2012,1.049301588,NY.ADJ.DCO2.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+212,2013,1.1056762998,NY.ADJ.DCO2.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+213,2014,1.1779095359,NY.ADJ.DCO2.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+214,2015,1.1111497331,NY.ADJ.DCO2.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+215,2016,1.2120933759,NY.ADJ.DCO2.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+216,2017,1.0748910301,NY.ADJ.DCO2.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+217,2018,1.373697398,NY.ADJ.DCO2.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+218,2019,1.6321945442999999,NY.ADJ.DCO2.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+219,2020,1.7528095012,NY.ADJ.DCO2.GN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+220,2010,1.0110213899,NY.ADJ.DCO2.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+221,2011,0.8575439624000001,NY.ADJ.DCO2.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+222,2012,0.8041516352,NY.ADJ.DCO2.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+223,2013,0.7976763455,NY.ADJ.DCO2.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+224,2014,0.8721449585000001,NY.ADJ.DCO2.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+225,2015,0.9932113154000001,NY.ADJ.DCO2.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+226,2016,1.1664291171,NY.ADJ.DCO2.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+227,2017,1.1230928946,NY.ADJ.DCO2.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+228,2018,1.0976622453,NY.ADJ.DCO2.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+229,2019,1.1586298461,NY.ADJ.DCO2.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+230,2020,1.2165249864,NY.ADJ.DCO2.GN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+231,2010,0.5336101055,NY.ADJ.DCO2.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+232,2011,0.48725193710000003,NY.ADJ.DCO2.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+233,2012,0.5885688732000001,NY.ADJ.DCO2.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+234,2013,0.6409591423000001,NY.ADJ.DCO2.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+235,2014,0.7090327373,NY.ADJ.DCO2.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+236,2015,0.9455907698,NY.ADJ.DCO2.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+237,2016,0.9000684487,NY.ADJ.DCO2.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+238,2017,0.8332527245,NY.ADJ.DCO2.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+239,2018,0.9009484795,NY.ADJ.DCO2.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+240,2019,0.9743241376,NY.ADJ.DCO2.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+241,2020,1.2695923198,NY.ADJ.DCO2.GN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+242,2010,0.9661186788,NY.ADJ.DCO2.GN.ZS,CAN,Canada,North America,High income,Not classified
+243,2011,0.9269977341000001,NY.ADJ.DCO2.GN.ZS,CAN,Canada,North America,High income,Not classified
+244,2012,0.9504444049,NY.ADJ.DCO2.GN.ZS,CAN,Canada,North America,High income,Not classified
+245,2013,0.9900922183,NY.ADJ.DCO2.GN.ZS,CAN,Canada,North America,High income,Not classified
+246,2014,1.0642625651,NY.ADJ.DCO2.GN.ZS,CAN,Canada,North America,High income,Not classified
+247,2015,1.2735833248000001,NY.ADJ.DCO2.GN.ZS,CAN,Canada,North America,High income,Not classified
+248,2016,1.3068296339,NY.ADJ.DCO2.GN.ZS,CAN,Canada,North America,High income,Not classified
+249,2017,1.2906831049,NY.ADJ.DCO2.GN.ZS,CAN,Canada,North America,High income,Not classified
+250,2018,1.3316534642,NY.ADJ.DCO2.GN.ZS,CAN,Canada,North America,High income,Not classified
+251,2019,1.3688427497,NY.ADJ.DCO2.GN.ZS,CAN,Canada,North America,High income,Not classified
+252,2020,1.4042414689,NY.ADJ.DCO2.GN.ZS,CAN,Canada,North America,High income,Not classified
+253,2010,4.0131877728,NY.ADJ.DCO2.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+254,2011,3.6948534145,NY.ADJ.DCO2.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+255,2012,3.5027598032,NY.ADJ.DCO2.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+256,2013,3.3913611002,NY.ADJ.DCO2.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+257,2014,3.1775158767000002,NY.ADJ.DCO2.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+258,2015,3.1163212951,NY.ADJ.DCO2.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+259,2016,3.1412038825,NY.ADJ.DCO2.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+260,2017,3.0474457719,NY.ADJ.DCO2.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+261,2018,2.9281195128,NY.ADJ.DCO2.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+262,2019,2.9882636949,NY.ADJ.DCO2.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+263,2020,2.9396592034,NY.ADJ.DCO2.GN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+264,2010,0.369990066,NY.ADJ.DCO2.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+265,2011,0.33792499340000004,NY.ADJ.DCO2.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+266,2012,0.3838095722,NY.ADJ.DCO2.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+267,2013,0.3799004982,NY.ADJ.DCO2.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+268,2014,0.3528588031,NY.ADJ.DCO2.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+269,2015,0.4348631705,NY.ADJ.DCO2.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+270,2016,0.4448315735,NY.ADJ.DCO2.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+271,2017,0.44668949,NY.ADJ.DCO2.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+272,2018,0.4261125141,NY.ADJ.DCO2.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+273,2019,0.4502017004,NY.ADJ.DCO2.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+274,2020,0.4387109685,NY.ADJ.DCO2.GN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+275,2010,0.6413689266,NY.ADJ.DCO2.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+276,2011,0.5789772646,NY.ADJ.DCO2.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+277,2012,0.6582919987,NY.ADJ.DCO2.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+278,2013,0.6593387291,NY.ADJ.DCO2.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+279,2014,0.6279496361,NY.ADJ.DCO2.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+280,2015,0.7546639226,NY.ADJ.DCO2.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+281,2016,0.7544558394,NY.ADJ.DCO2.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+282,2017,0.7267054473,NY.ADJ.DCO2.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+283,2018,0.6780418864000001,NY.ADJ.DCO2.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+284,2019,0.7128751783,NY.ADJ.DCO2.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+285,2020,0.7006579005,NY.ADJ.DCO2.GN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+286,2010,2.8802916851,NY.ADJ.DCO2.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+287,2011,2.8977718927,NY.ADJ.DCO2.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+288,2012,3.2970860025,NY.ADJ.DCO2.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+289,2013,3.4810499957,NY.ADJ.DCO2.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+290,2014,3.5668972226999998,NY.ADJ.DCO2.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+291,2015,3.6048065179,NY.ADJ.DCO2.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+292,2016,3.4784141959,NY.ADJ.DCO2.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+293,2017,3.2867631336,NY.ADJ.DCO2.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+294,2018,3.5724452519,NY.ADJ.DCO2.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+295,2019,3.5728944027000002,NY.ADJ.DCO2.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+296,2020,3.6290852229,NY.ADJ.DCO2.GN.ZS,IND,India,South Asia,Lower middle income,IBRD
+297,2010,1.6286797316000001,NY.ADJ.DCO2.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+298,2011,1.648808633,NY.ADJ.DCO2.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+299,2012,1.7062468524,NY.ADJ.DCO2.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+300,2013,1.6627139012,NY.ADJ.DCO2.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+301,2014,1.9191154653,NY.ADJ.DCO2.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+302,2015,2.0572118565,NY.ADJ.DCO2.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+303,2016,1.9671410003,NY.ADJ.DCO2.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+304,2017,2.028516491,NY.ADJ.DCO2.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+305,2018,2.2620000603,NY.ADJ.DCO2.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+306,2019,2.2493736224,NY.ADJ.DCO2.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+307,2020,2.3825265399,NY.ADJ.DCO2.GN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+308,2010,0.5462787686,NY.ADJ.DCO2.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+309,2011,0.5159985857,NY.ADJ.DCO2.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+310,2012,0.5663575357,NY.ADJ.DCO2.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+311,2013,0.5243553882,NY.ADJ.DCO2.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+312,2014,0.5112203758,NY.ADJ.DCO2.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+313,2015,0.6473330597,NY.ADJ.DCO2.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+314,2016,0.6356001022000001,NY.ADJ.DCO2.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+315,2017,0.6252453191,NY.ADJ.DCO2.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+316,2018,0.6032035827000001,NY.ADJ.DCO2.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+317,2019,0.6384111948,NY.ADJ.DCO2.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+318,2020,0.6224179918,NY.ADJ.DCO2.GN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+319,2010,0.5673897563,NY.ADJ.DCO2.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+320,2011,0.5704171342000001,NY.ADJ.DCO2.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+321,2012,0.6146699205,NY.ADJ.DCO2.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+322,2013,0.7662180498000001,NY.ADJ.DCO2.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+323,2014,0.8193244134000001,NY.ADJ.DCO2.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+324,2015,0.903506499,NY.ADJ.DCO2.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+325,2016,0.8249699062,NY.ADJ.DCO2.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+326,2017,0.8551958677,NY.ADJ.DCO2.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+327,2018,0.8431685542,NY.ADJ.DCO2.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+328,2019,0.848702244,NY.ADJ.DCO2.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+329,2020,0.8463449886000001,NY.ADJ.DCO2.GN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+330,2010,1.4337063047,NY.ADJ.DCO2.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+331,2011,1.4120414307,NY.ADJ.DCO2.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+332,2012,1.4518069371,NY.ADJ.DCO2.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+333,2013,1.4026829351,NY.ADJ.DCO2.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+334,2014,1.3260967503,NY.ADJ.DCO2.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+335,2015,1.4387423538,NY.ADJ.DCO2.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+336,2016,1.4594766792,NY.ADJ.DCO2.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+337,2017,1.4355079138,NY.ADJ.DCO2.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+338,2018,1.4287533746,NY.ADJ.DCO2.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+339,2019,1.5521560947,NY.ADJ.DCO2.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+340,2020,1.5865448987000002,NY.ADJ.DCO2.GN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+341,2010,1.282263998,NY.ADJ.DCO2.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+342,2011,1.2350476414,NY.ADJ.DCO2.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+343,2012,1.2738019423,NY.ADJ.DCO2.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+344,2013,1.2272858639,NY.ADJ.DCO2.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+345,2014,1.2073208554,NY.ADJ.DCO2.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+346,2015,1.4455798099,NY.ADJ.DCO2.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+347,2016,1.6361653797,NY.ADJ.DCO2.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+348,2017,1.5622795189,NY.ADJ.DCO2.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+349,2018,1.5544878463,NY.ADJ.DCO2.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+350,2019,1.5108983628,NY.ADJ.DCO2.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+351,2020,1.6636045634,NY.ADJ.DCO2.GN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+352,2010,3.0712315594,NY.ADJ.DCO2.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+353,2011,2.4874433133,NY.ADJ.DCO2.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+354,2012,2.435488644,NY.ADJ.DCO2.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+355,2013,2.3801155537,NY.ADJ.DCO2.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+356,2014,2.7226312603,NY.ADJ.DCO2.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+357,2015,4.0836374412,NY.ADJ.DCO2.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+358,2016,4.4256749604,NY.ADJ.DCO2.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+359,2017,3.8082041026,NY.ADJ.DCO2.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+360,2018,3.8878810734,NY.ADJ.DCO2.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+361,2019,4.0405718989,NY.ADJ.DCO2.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+362,2020,4.5213926064,NY.ADJ.DCO2.GN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+363,2010,2.3571525068,NY.ADJ.DCO2.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+364,2011,1.9975060873000001,NY.ADJ.DCO2.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+365,2012,2.0458176731,NY.ADJ.DCO2.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+366,2013,2.1282198791,NY.ADJ.DCO2.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+367,2014,2.341558254,NY.ADJ.DCO2.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+368,2015,2.9118188441,NY.ADJ.DCO2.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+369,2016,3.0192935702,NY.ADJ.DCO2.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+370,2017,2.8943379239,NY.ADJ.DCO2.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+371,2018,2.5392927694000003,NY.ADJ.DCO2.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+372,2019,2.6190656378,NY.ADJ.DCO2.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+373,2020,2.9079590314,NY.ADJ.DCO2.GN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+374,2010,2.9841969482,NY.ADJ.DCO2.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+375,2011,2.7263143437,NY.ADJ.DCO2.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+376,2012,3.1467897113,NY.ADJ.DCO2.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+377,2013,3.6188818796,NY.ADJ.DCO2.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+378,2014,4.0605003167,NY.ADJ.DCO2.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+379,2015,4.3704784960000005,NY.ADJ.DCO2.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+380,2016,4.8385657877,NY.ADJ.DCO2.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+381,2017,4.3885913127,NY.ADJ.DCO2.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+382,2018,4.3082990994,NY.ADJ.DCO2.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+383,2019,4.6318811474,NY.ADJ.DCO2.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+384,2020,5.1039271129,NY.ADJ.DCO2.GN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+385,2010,1.1078746625,NY.ADJ.DCO2.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+386,2011,1.1375067135,NY.ADJ.DCO2.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+387,2012,1.1765944312,NY.ADJ.DCO2.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+388,2013,1.0859053137,NY.ADJ.DCO2.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+389,2014,1.233700743,NY.ADJ.DCO2.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+390,2015,1.4339460008,NY.ADJ.DCO2.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+391,2016,1.5595790923,NY.ADJ.DCO2.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+392,2017,1.8351142576,NY.ADJ.DCO2.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+393,2018,2.1095345192,NY.ADJ.DCO2.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+394,2019,2.2235194137,NY.ADJ.DCO2.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+395,2020,2.4385307915,NY.ADJ.DCO2.GN.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+396,2010,0.5555304942,NY.ADJ.DCO2.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+397,2011,0.493959727,NY.ADJ.DCO2.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+398,2012,0.5429248861,NY.ADJ.DCO2.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+399,2013,0.5336075547,NY.ADJ.DCO2.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+400,2014,0.4631780976,NY.ADJ.DCO2.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+401,2015,0.48308781440000004,NY.ADJ.DCO2.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+402,2016,0.5125327788,NY.ADJ.DCO2.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+403,2017,0.5153712206000001,NY.ADJ.DCO2.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+404,2018,0.4915298508,NY.ADJ.DCO2.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+405,2019,0.4919870159,NY.ADJ.DCO2.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+406,2020,0.4598158473,NY.ADJ.DCO2.GN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+407,2010,1.0186519765,NY.ADJ.DCO2.GN.ZS,USA,United States,North America,High income,Not classified
+408,2011,0.9689525941,NY.ADJ.DCO2.GN.ZS,USA,United States,North America,High income,Not classified
+409,2012,0.9268467031000001,NY.ADJ.DCO2.GN.ZS,USA,United States,North America,High income,Not classified
+410,2013,0.9583973728,NY.ADJ.DCO2.GN.ZS,USA,United States,North America,High income,Not classified
+411,2014,0.9558311515000001,NY.ADJ.DCO2.GN.ZS,USA,United States,North America,High income,Not classified
+412,2015,0.92916614,NY.ADJ.DCO2.GN.ZS,USA,United States,North America,High income,Not classified
+413,2016,0.9223353044,NY.ADJ.DCO2.GN.ZS,USA,United States,North America,High income,Not classified
+414,2017,0.9051025530000001,NY.ADJ.DCO2.GN.ZS,USA,United States,North America,High income,Not classified
+415,2018,0.9338129846000001,NY.ADJ.DCO2.GN.ZS,USA,United States,North America,High income,Not classified
+416,2019,0.9260291404000001,NY.ADJ.DCO2.GN.ZS,USA,United States,North America,High income,Not classified
+417,2020,0.9132063781,NY.ADJ.DCO2.GN.ZS,USA,United States,North America,High income,Not classified
