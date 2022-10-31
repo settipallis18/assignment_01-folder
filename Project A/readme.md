@@ -7,5 +7,10 @@ Climate change is expected to hit developing countries the hardest. Its effectsâ
 
 
 ## Step-1
-The World Development Indicators is a compilation of relevant, high-quality, and internationally comparable statistics about global development and the fight against poverty. The database contains 1,400 time series indicators for 217 economies and more than 40 country groups, with data for many indicators(Health, Education and Economy) going back more than 50 years. Performed analysis using distribution charts, scatter plots and line charts over years. From this analysis, I choose the topic Environment & Climate Changes in G20 Countries.
+World Development Indicators (WDI) are the World Bank's most comprehensive collection of development data that is comparable across countries. The World Development Indicators is a compilation of relevant, high-quality, and internationally comparable statistics about global development and the fight against poverty. The database contains 1,400 time series indicators for 217 economies and more than 40 country groups, with data for many indicators(Health, Education and Economy) going back more than 50 years.
+
+
+## Step-2 
+
+Performed analysis using distribution charts, scatter plots and line charts over years. From this analysis, I choose the topic Environment & Climate Changes in G20 Countries.
 
