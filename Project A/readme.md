@@ -15,7 +15,16 @@ World Development Indicators (WDI) are the World Bank's most comprehensive colle
 https://github.com/settipallis18/assignment_01-folder/blob/main/Project%20A/wdx_long%20new%20longggg.csv Analysing the indiccators about Environment and Climate Changes. Performed analysis using distribution charts, scatter plots and line charts over years. From this analysis, I choose the topic Environment & Climate Changes in G20 Countries.
 
 ## Step-3
+## Climate Vs Population
 Based on the topic Environment and Climate Chnages, I am very enthustic to show the changes of climate from past decades. Now a days we all are aware carbon emission and the effects of the green house gases effect on our lives. So it is bases on the population growth?  population in G20 countries over the years 2010 to 2020. The indicators analyzed are :
 <img width="1086" alt="Screen Shot 2022-10-30 at 8 00 19 PM" src="https://user-images.githubusercontent.com/94401598/198909587-383c896f-34d7-40b1-95b8-9ce3ce12f960.png">
 
-The G20 Countries are : 'Argentina', 'Australia', 'Brazil', 'Canada', 'China', 'France', 'Germany', 'India', 'Indonesia', 'Italy', 'Japan', 'Korea, Rep.', 'Mexico', 'Russian Federation', 'Saudi Arabia', 'South Africa', 'Turkiye', 'United Kingdom' and 'United States'.
+The list of the G20 Countries are : 'Argentina', 'Australia', 'Brazil', 'Canada', 'China', 'France', 'Germany', 'India', 'Indonesia', 'Italy', 'Japan', 'Korea, Rep.', 'Mexico', 'Russian Federation', 'Saudi Arabia', 'South Africa', 'Turkiye', 'United Kingdom' and 'United States'.
+ 
+Poulation Growth of the G20 countries:
+<img width="1024" alt="Screen Shot 2022-10-30 at 8 37 47 PM" src="https://user-images.githubusercontent.com/94401598/198910183-706fd803-fd50-4cf0-858a-4466cf1f9e4e.png">
+we can observe the population growth between the G20 countries list in the year of 2012
+<img width="1034" alt="Screen Shot 2022-10-30 at 8 37 14 PM" src="https://user-images.githubusercontent.com/94401598/198910212-4aa2b9da-64dc-45cc-a500-98a7427c1082.png">
+
+
+![Uploading Screen Shot 2022-10-30 at 8.37.47 PM.png…]()
