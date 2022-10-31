@@ -21,10 +21,18 @@ Based on the topic Environment and Climate Chnages, I am very enthustic to show 
 
 The list of the G20 Countries are : 'Argentina', 'Australia', 'Brazil', 'Canada', 'China', 'France', 'Germany', 'India', 'Indonesia', 'Italy', 'Japan', 'Korea, Rep.', 'Mexico', 'Russian Federation', 'Saudi Arabia', 'South Africa', 'Turkiye', 'United Kingdom' and 'United States'.
  
-Poulation Growth of the G20 countries:
-<img width="1024" alt="Screen Shot 2022-10-30 at 8 37 47 PM" src="https://user-images.githubusercontent.com/94401598/198910183-706fd803-fd50-4cf0-858a-4466cf1f9e4e.png">
+###Poulation Growth of the G20 countries:
 we can observe the population growth between the G20 countries list in the year of 2012
+<img width="1024" alt="Screen Shot 2022-10-30 at 8 37 47 PM" src="https://user-images.githubusercontent.com/94401598/198910183-706fd803-fd50-4cf0-858a-4466cf1f9e4e.png">
+
+### Carbon Damage
+Here we can observe CO2 most damage countries in the list as well as least based on G20 countries selected list.
 <img width="1034" alt="Screen Shot 2022-10-30 at 8 37 14 PM" src="https://user-images.githubusercontent.com/94401598/198910212-4aa2b9da-64dc-45cc-a500-98a7427c1082.png">
 
+Pupulation Growth & CO2 damage on top 10 countries:
+<img width="1034" alt="Screen Shot 2022-10-30 at 8 44 56 PM" src="https://user-images.githubusercontent.com/94401598/198910593-d98425c3-d225-451f-932d-d2d409ab1f75.png">
 
-![Uploading Screen Shot 2022-10-30 at 8.37.47 PM.png…]()
+<img width="1035" alt="Screen Shot 2022-10-30 at 8 44 25 PM" src="https://user-images.githubusercontent.com/94401598/198910607-b3310d11-8d4f-48d5-af42-c739755feae4.png">
+
+
+
