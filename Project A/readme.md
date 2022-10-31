@@ -25,7 +25,7 @@ The list of the G20 Countries are : 'Argentina', 'Australia', 'Brazil', 'Canada'
 we can observe the population growth between the G20 countries list in the year of 2012
 <img width="1024" alt="Screen Shot 2022-10-30 at 8 37 47 PM" src="https://user-images.githubusercontent.com/94401598/198910183-706fd803-fd50-4cf0-858a-4466cf1f9e4e.png">
 
-### Carbon Damage
+### Carbon Dioxide Damage
 Here we can observe CO2 most damage countries in the list as well as least based on G20 countries selected list.
 <img width="1034" alt="Screen Shot 2022-10-30 at 8 37 14 PM" src="https://user-images.githubusercontent.com/94401598/198910212-4aa2b9da-64dc-45cc-a500-98a7427c1082.png">
 
@@ -44,7 +44,7 @@ Here we can observe CO2 most damage countries in the list as well as least based
 <img width="1023" alt="Screen Shot 2022-10-30 at 9 17 53 PM" src="https://user-images.githubusercontent.com/94401598/198912809-f15fd8f5-9332-4675-b683-8e67e5ad408b.png">
 
 
-## Conculsion: 
+## Conclusion: 
 From the observations, South Africa are the most CO2 damage country and if we notice it clearly it raises from mid to top level from the past decade and the following countries are Federal Russia and India in the year of 2021(highest). Coming to the population growth in the top list Saudhi but it is reducing gradually and the Italy falls down drastically.
 
 
