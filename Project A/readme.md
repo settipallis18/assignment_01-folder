@@ -40,7 +40,8 @@ Here we can observe CO2 most damage countries in the list as well as least based
 ### When we compare from 2010 to 2021 here are the all countries with damage CO2 percentage in the time series
 <img width="1016" alt="Screen Shot 2022-10-30 at 8 54 16 PM" src="https://user-images.githubusercontent.com/94401598/198911917-9cbd802e-3d40-44bc-9b42-eb0afe16a871.png">
 
-### From the observations, South Africa are the most CO2 damage country and if we notice it clearly it raises from mid to top level from the past decade and the following countries are Federal Russia and India in the year of 2021(highest).
+## Conculsion: 
+From the observations, South Africa are the most CO2 damage country and if we notice it clearly it raises from mid to top level from the past decade and the following countries are Federal Russia and India in the year of 2021(highest). Coming to the population growth in the top list Saudhi but it is reducing gradually and the Italy falls down drastically.
 
 
 
