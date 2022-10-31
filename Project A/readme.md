@@ -12,5 +12,10 @@ World Development Indicators (WDI) are the World Bank's most comprehensive colle
 
 ## Step-2 
 
-Performed analysis using distribution charts, scatter plots and line charts over years. From this analysis, I choose the topic Environment & Climate Changes in G20 Countries.
+https://github.com/settipallis18/assignment_01-folder/blob/main/Project%20A/wdx_long%20new%20longggg.csv Analysing the indiccators about Environment and Climate Changes. Performed analysis using distribution charts, scatter plots and line charts over years. From this analysis, I choose the topic Environment & Climate Changes in G20 Countries.
 
+## Step-3
+Based on the topic Environment and Climate Chnages, I am very enthustic to show the changes of climate from past decades. Now a days we all are aware carbon emission and the effects of the green house gases effect on our lives. So it is bases on the population growth?  population in G20 countries over the years 2010 to 2020. The indicators analyzed are :
+<img width="1086" alt="Screen Shot 2022-10-30 at 8 00 19 PM" src="https://user-images.githubusercontent.com/94401598/198909587-383c896f-34d7-40b1-95b8-9ce3ce12f960.png">
+
+The G20 Countries are : 'Argentina', 'Australia', 'Brazil', 'Canada', 'China', 'France', 'Germany', 'India', 'Indonesia', 'Italy', 'Japan', 'Korea, Rep.', 'Mexico', 'Russian Federation', 'Saudi Arabia', 'South Africa', 'Turkiye', 'United Kingdom' and 'United States'.
